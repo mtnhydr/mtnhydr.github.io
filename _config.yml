@@ -5,7 +5,7 @@ title: Mountain Hydrology Research.
 description: "Mountain Hydrology Research Group at the University of Washington"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://mtnhydr.com"
+url: "http://mtnhydr.github.io"
 
 # Build settings
 markdown: kramdown
